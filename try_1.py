@@ -28,12 +28,13 @@ for i in range(45):
              ]
     A.append(row_lin)
 
-print(A)
+
 matrix_A = np.array(A)
 
 
 b = list(new_df['Y2'])
 len(b)
+
 
 b_vec = np.array(b)
 
