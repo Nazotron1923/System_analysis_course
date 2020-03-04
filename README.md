@@ -1,3 +1,4 @@
-# system_analiz
-Labs
-Pareto set, best altirnative
+# System analysis 
+
+Lab
+**Pareto set, best altirnative**
